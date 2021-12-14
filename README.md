@@ -1,4 +1,4 @@
-# BikeSharing
+# Bike Sharing Dataset 
 
 The hourly data of bike-share consists of data with records of 17379 and 17 features. I have explored the data and looked into various features like hourly,  monthly, and yearly count of bikes and changed the column names into readable names for ease of use. Also, a graph is plotted to show the correlation between features to understand their linear relation for building better models and to consider a few variables that contain information to predict the labels and help in dimensionality reduction.
 
